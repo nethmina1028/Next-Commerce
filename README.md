@@ -13,4 +13,5 @@ invent features and cartSlice , lodingSlice ,productSlice
 
 
 npm i react-hot-toast 
+npm i react-icons
 
