@@ -17,3 +17,6 @@ npm i react-icons
 
 npm i axios
 npm i mongoose
+
+
+npm install uploadthing @uploadthing/react
